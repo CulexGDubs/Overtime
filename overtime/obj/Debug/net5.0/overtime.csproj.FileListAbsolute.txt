@@ -1,0 +1,16 @@
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.AssemblyInfo.cs
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\overtime.exe
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\overtime.deps.json
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\overtime.runtimeconfig.json
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\overtime.runtimeconfig.dev.json
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\overtime.dll
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\ref\overtime.dll
+C:\Users\Dan\Desktop\Overtime\overtime\bin\Debug\net5.0\overtime.pdb
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.dll
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\ref\overtime.dll
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.pdb
+C:\Users\Dan\Desktop\Overtime\overtime\obj\Debug\net5.0\overtime.genruntimeconfig.cache
